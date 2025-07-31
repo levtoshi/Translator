@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Translator", "Translator\Translator.csproj", "{DA25C1EA-5335-4792-BF25-3EA3AE75510D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{68844456-E9A5-4F53-B63E-D949D51A7002}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DLL", "DLL\DLL.csproj", "{31F4CC72-5B6D-485A-B302-921096C39D7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA25C1EA-5335-4792-BF25-3EA3AE75510D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA25C1EA-5335-4792-BF25-3EA3AE75510D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA25C1EA-5335-4792-BF25-3EA3AE75510D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA25C1EA-5335-4792-BF25-3EA3AE75510D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68844456-E9A5-4F53-B63E-D949D51A7002}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68844456-E9A5-4F53-B63E-D949D51A7002}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68844456-E9A5-4F53-B63E-D949D51A7002}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68844456-E9A5-4F53-B63E-D949D51A7002}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31F4CC72-5B6D-485A-B302-921096C39D7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31F4CC72-5B6D-485A-B302-921096C39D7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31F4CC72-5B6D-485A-B302-921096C39D7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31F4CC72-5B6D-485A-B302-921096C39D7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
